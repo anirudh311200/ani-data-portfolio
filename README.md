@@ -1,7 +1,7 @@
 # Ani's Data Analytics Portfolio 🚀
 
 Welcome! This repository showcases my **end-to-end data analytics projects** across **Tableau, Power BI, SQL, and Excel**.  
-Each project focuses on solving **real-world business problems** through **clear analysis, actionable insights, and executive-ready storytelling**.
+Each project focuses on transforming raw data into **clear insights, actionable decisions, and executive-ready storytelling**.
 
 *Click on any project below to explore the complete analysis, dashboards, and documentation.*
 
@@ -12,7 +12,7 @@ Each project focuses on solving **real-world business problems** through **clear
 ---
 
 ### 🟠 Maven Supplies Analytics | Tableau
-[🔗 View Repository](https://github.com/anirudh311200/maven-supplies-analytics)
+🔗 [View Repository](https://github.com/anirudh311200/maven-supplies-analytics)
 
 - Executive-grade **Tableau dashboards** and story points  
 - Deep-dive analysis of sales performance, profit drivers, and loss contributors  
@@ -21,7 +21,7 @@ Each project focuses on solving **real-world business problems** through **clear
 ---
 
 ### 🟡 AdventureWorks Executive Dashboard | Power BI
-[🔗 View Repository](https://github.com/anirudh311200/adventureworks-powerbi-executive-dashboard)
+🔗 [View Repository](https://github.com/anirudh311200/adventureworks-powerbi-executive-dashboard)
 
 - End-to-end **Power BI solution** with KPI tracking and regional analysis  
 - AI-powered insights, drill-downs, and trend exploration  
@@ -30,7 +30,7 @@ Each project focuses on solving **real-world business problems** through **clear
 ---
 
 ### 🔵 Restaurant Order Analysis | SQL
-[🔗 View Repository](https://github.com/anirudh311200/restaurant-order-analysis)
+🔗 [View Repository](https://github.com/anirudh311200/restaurant-order-analysis)
 
 - Advanced **SQL querying** to uncover customer behavior and revenue drivers  
 - Analysis of menu performance, category trends, and high-value orders  
@@ -39,7 +39,7 @@ Each project focuses on solving **real-world business problems** through **clear
 ---
 
 ### 🟢 NYC Traffic Collision Analysis | Excel
-[🔗 View Repository](https://github.com/anirudh311200/nyc-traffic-analysis)
+🔗 [View Repository](https://github.com/anirudh311200/nyc-traffic-analysis)
 
 - Comprehensive **Excel analytics workflow** from raw data to insights  
 - Pivot tables, heatmaps, and trend visualizations  
